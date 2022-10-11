@@ -1,0 +1,3 @@
+[submodule "stencil-angularapp-demo"]
+	path = stencil-angularapp-demo
+	url = git@github.com:Gokul2594/stencil-angular-app.git
